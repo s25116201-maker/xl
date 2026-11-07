@@ -1,0 +1,6 @@
+{
+  "name": "小狼的幸運小鎮",
+  "description": "原創IP療癒系互動冒險與小鎮經營網頁遊戲。與小狼夥伴一起探索世界、幫助森林居民，累積功德值與幸運值，將荒涼空地建設成繁榮溫暖的童話小鎮！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
